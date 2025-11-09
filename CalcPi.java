@@ -5,6 +5,7 @@ public class CalcPi {
 		double denominator = -1;
 		double ratio;
 		double pi = 0;
+		double realPi = Math.PI;
 
 		for (int i = 0; i < num; i++)
 		{
@@ -20,6 +21,7 @@ public class CalcPi {
 			}
 		}
         pi = pi*4;
-		System.out.println(pi);
+		System.out.println("pi according to Java: " + realPi);
+		System.out.println("pi, approximated: " + pi);
 	}
 }
