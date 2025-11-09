@@ -24,17 +24,17 @@ public class Cheers {
            //check letter for condition
                 if (anLetters.indexOf(Letter)!=-1)
                 { 
-                   System.out.println("Give me an: " + Letter);
+                   System.out.println("Give me an " + Letter + ":" + Letter);
                 }
                 else
                 {
-                   System.out.println("Give me a:" + Letter);
+                   System.out.println("Give me a:" + Letter + ":" + Letter);
                 }
                
             }
            
             //prints name x times:
-            System.out.println("What does it spell?");
+            System.out.println("What does that spell?");
             for (int j = 0; j < cheersNum; j++)
             {
                 System.out.println(nameUpper + "!!!");
