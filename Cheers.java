@@ -34,6 +34,7 @@ public class Cheers {
             }
            
             //prints name x times:
+            System.out.println("What does it spell?");
             for (int j = 0; j < cheersNum; j++)
             {
                 System.out.println(nameUpper + "!!!");
