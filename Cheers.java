@@ -24,11 +24,11 @@ public class Cheers {
            //check letter for condition
                 if (anLetters.indexOf(Letter)!=-1)
                 { 
-                   System.out.println("Give me an " + Letter + ":" + Letter);
+                   System.out.println("Give me an " + Letter + ":" + Letter +"!");
                 }
                 else
                 {
-                   System.out.println("Give me a:" + Letter + ":" + Letter);
+                   System.out.println("Give me a:" + Letter + ":" + Letter +"!");
                 }
                
             }
