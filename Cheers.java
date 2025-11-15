@@ -1,7 +1,6 @@
-//feedback
-
 /*
-Great work boaz!
+Feedback:
+Great working with functions and names for variables :)
 */
 
 
@@ -43,3 +42,4 @@ public class Cheers {
 
         }
 }
+
