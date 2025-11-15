@@ -24,3 +24,7 @@ System.out.println(SNewHours + ":" + SNewMinutes);
 
     }
 }
+
+// Great that you add comments!
+// notice camel case -> TotalMinutes -> totalMinutes 
+
