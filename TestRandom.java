@@ -24,3 +24,5 @@ System.out.println("<= 0.5: " + countLess);
 System.out.println("Ratio: " + Ratio);
 	}
 }
+
+// Good job :)
