@@ -1,3 +1,10 @@
+/*
+Feedback: 
+Great code organization
+Notice camel case on line 10 : String Time -> String time
+Line 27 - if you dont need to printing line you can delete it and not commit it :)
+*/
+
 public class TimeCalc {
     public static void main(String[] args) {
         String Time = args [0];
@@ -24,3 +31,4 @@ System.out.println(SNewHours + ":" + SNewMinutes);
 
     }
 }
+
