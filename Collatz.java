@@ -1,3 +1,10 @@
+/*
+Feedback: 
+good choosing of 'do while'!
+nicely written.
+*/
+
+
 // Demonstrates the Collatz conjecture (no modes yet).
 public class Collatz {
     public static void main(String[] args) {
@@ -40,4 +47,5 @@ public class Collatz {
     }
 }
 // javac Collatz.java
+
 // java Collatz 8
